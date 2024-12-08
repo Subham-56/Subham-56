@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subham Rungta
-- 🌱 I’m currently learning C & C++
+- 🌱 I’m currently learning C & Java
 - 📫 How to reach me: subhamrungta.cbsa@gmail.com
 - 😄 Pronouns: he/him
 
